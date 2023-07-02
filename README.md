@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning ... cloud based AI systems, aerospace tech , 3d printing and ev based technologies
 <!--
 **steve1320/steve1320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
